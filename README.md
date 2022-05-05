@@ -17,6 +17,6 @@ I'm not the Owner of the Datasets, nor scrapping was performed by me. It was don
 
 # 使用技術: Jupyter Notebook, Tableau
 
-Thttps://public.tableau.com/app/profile/taocheng.lin/viz/CoffeeAnalysisfromCQI/sheet8
+Tableau: https://public.tableau.com/app/profile/taocheng.lin/viz/CoffeeAnalysisfromCQI/sheet8
 
 ![image](https://user-images.githubusercontent.com/103302287/166860262-0ddd8431-fbc5-43d3-b99c-5af7b9afac6b.png)
